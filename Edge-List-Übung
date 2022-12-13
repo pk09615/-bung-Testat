@@ -1,3 +1,5 @@
+id, name, party, sector, country
+
 ul, Ursula von der Leyen, CDU, Politik, Deutschland
 lk, Lars Klingbeil, SPD, Politik, Deutschland
 nr, Norbert Röttgen, CDU, Politik, Deutschland
@@ -17,3 +19,4 @@ rh, Robert Habeck, Grüne, Politik, Deutschland
 cm, Claudia Major, keine, Politikwissenschaften, Deutschland
 kp, Katja Petrowskaja, keine, Journalismus, Ukraine
 rk, Roderich Kiesewetter, CDU, Politik und Militär, Deutschland
+
