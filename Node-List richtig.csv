@@ -1,6 +1,5 @@
 id,name,party,sector,country
 lk,Lars Klingbeil,SPD,Politik,Deutschland
-500,Folge 500,,,
 ul,Ursula von der Leyen,CDU,Politik,Deutschland
 nr,Norbert Röttgen,CDU,Politik,Deutschland
 sw,Sahra Wagenknecht,Die Linke,Politik,Deutschland
@@ -19,11 +18,12 @@ rh,Robert Habeck,Die Grünen,Politik,Deutschland
 cm,Claudia Major,,Politikwissenschaft,Deutschland
 kp,Katja Petrowskaja,,Literatur,Ukraine
 rk,Roderich Kiesewetter,CDU,Politik,Deutschland
+500,Folge 500,,,
 501,Folge 501,,,
 502,Folge 502,,,
 503,Folge 503,,,
-SPD,Sozialdemokratische Partei Deutschlands,,,
-Die Grünen,Bündnis 90/Die Grünen,,,
+SPD,Sozialdemokratische Partei,,,
+Die Grünen,Die Grünen,,,
 Die Linke,Die Linken,,,
 FDP,Freie Demokratische Partei,,,
-CDU,Christlich Demokratische Union Deutschlands,,,
+CDU,Christlich Demokratische Union,,,
